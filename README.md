@@ -6,6 +6,8 @@
   <a href="https://www.linkedin.com/in/glorianafok/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=GloriBird&style=flat-square&color=blue" alt=""/>
+
 </div>
 <div>
 
