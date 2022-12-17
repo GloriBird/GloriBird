@@ -5,7 +5,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
-    <img src="https://ia600702.us.archive.org/18/items/SansBlackWBG/Sans-Black-WBG.gi)" width="100"/>
+    <img src="https://ia600702.us.archive.org/18/items/SansBlackWBG/Sans-Black-WBG.gif" width="300"/>
+
 
   
   <div id="badges">
