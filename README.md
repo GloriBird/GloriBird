@@ -10,9 +10,9 @@
 </div>
   <br>
   <div>
-  <div>🔭 I’m currently working on a new version my book club site, very excited about it!</div>
-  <div>👩‍💻 I enjoy learning new languages/tools, reading tech articles and sci-fi novels during my free time.</div>
-  <div>🌱 Currently I'm learning TypeScript, and SQL as a follow up, with more to come down the line.</div>
+  <div>📚 I’m currently working on a new version my book club site, very excited about it!</div>
+  <div>👩‍💻 I enjoy learning new languages/tools, reading tech articles and sci-fi novels.</div>
+  <div>🌱 Currently I'm learning TypeScript and SQL, with more to come down the line.</div>
     </div>
   <h4>How to reach me:</h4>
   <a href="https://www.linkedin.com/in/glorianafok/" target="_blank">
