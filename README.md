@@ -4,7 +4,7 @@
   Hi, I'm Gloriana
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" />
   <div id="badges">
   <a href="https://www.linkedin.com/in/glorianafok/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
