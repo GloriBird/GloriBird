@@ -1,15 +1,15 @@
-### Hi there 👋
 
 <div id="header" align="center">
+  <p>Hello Stranger</p>
   <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="200"/>
-<div>
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/glorianafok/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  </a>
-</div>
+<div>
+
+
 
 
 
