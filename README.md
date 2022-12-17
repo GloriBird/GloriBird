@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <h1>
   Hi, I'm Gloriana
-  <img src="https://ia600702.us.archive.org/18/items/SansBlackWBG/Sans-Black-WBG.gif" width="100px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300" style="pointer-events: none;"/>
   <div id="badges">
