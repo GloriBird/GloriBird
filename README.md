@@ -1,34 +1,32 @@
 
 <div id="header" align="center">
   <h1>
-  Hi &#128075;, I'm Gloriana<span width="30px"></span>
-<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
+  Hi, I'm Gloriana <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 </h1>
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
   <div id="badges">
-
 </div>
-<div>
-
-I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
-
-🔭 I’m a as a Software Engineer and contributing to frontend and backend for building web applications.
-⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-📫 How to reach me: <a href="https://www.linkedin.com/in/glorianafok/" target="_blank">
+  <div  align="center"><span>I'm a Full Stack Developer from Canada <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13px"></span>.
+</div>
+  <br>
+  <div>
+    <div>🔭 I’m a currently working on a new version my book club site, very excited about it!</div>
+<div>👩‍💻 I enjoy learning new languages/tools and read tech articles during my free time.</div>
+<div>🌱 I’m currently learning TypeScript, and SQL as a follow up.</div>
+    </div>
+  <h4>How to reach me:</h4>
+  <a href="https://www.linkedin.com/in/glorianafok/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-<!--
-**GloriBird/GloriBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div><h4>Languages and Tools</h4>
+<img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-mongoDB-589636?&style=for-the-badge&logo=mongoDB&logoColor=white" />
+<img src="https://img.shields.io/badge/-express-black?&style=for-the-badge&logo=express&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-nodejs-3C873A?&style=for-the-badge&logo=node&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-EF5B25?&style=for-the-badge&logo=postman&logoColor=white" />
+  </div>
+<div>
