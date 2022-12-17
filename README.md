@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <h1>
   Hi, I'm Gloriana
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="30px"/>
+  <img src="[https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)" width="30px"/>
 </h1>
   <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="200"/>
   <div id="badges">
