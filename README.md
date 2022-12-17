@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="200"/>
 <div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/glorianafok/" target="_blank">
