@@ -28,5 +28,6 @@
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/-nodejs-3C873A?&style=for-the-badge&logo=node&logoColor=white" />
 <img src="https://img.shields.io/badge/-Postman-EF5B25?&style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/-storybook-FF4785?&style=for-the-badge&logo=storybook&logoColor=white" />
   </div>
 <div>
