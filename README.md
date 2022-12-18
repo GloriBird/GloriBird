@@ -10,7 +10,7 @@
 </div>
   <br>
   <div>
-  <div>📚 I’m currently working on a new version my book club site, very excited about it!</div>
+  <div>📚 A project I'm currently working on is a new and improved version my book club application.</div>
   <div>👩‍💻 I enjoy learning new languages/tools, reading tech articles and sci-fi novels.</div>
   <div>🌱 I'm learning TypeScript and SQL, with more to come down the line.</div>
     </div>
