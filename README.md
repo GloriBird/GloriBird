@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
   <div id="badges">
 </div>
-  <div  align="center"><span>I'm a Full Stack Developer from Canada <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13px"></span>.
+  <div  align="center"><span>I'm a Full Stack Developer from Quebec, Canada <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13px"></span>.
 </div>
   <br>
   <div>
