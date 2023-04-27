@@ -12,7 +12,7 @@
   <div>
   <div>📚 A project I'm currently working on is a new and improved version my book club application.</div>
   <div>👩‍💻 I enjoy learning new languages/tools, reading tech articles and sci-fi/mystery novels.</div>
-  <div>🌱 I'm learning TypeScript and SQL, with more to come down the line.</div>
+<!--   <div>🌱 I'm learning TypeScript and SQL, with more to come down the line.</div> -->
     </div>
   <h4>How to reach me:</h4>
   <a href="https://www.linkedin.com/in/glorianafok/" target="_blank">
