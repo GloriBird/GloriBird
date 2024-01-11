@@ -6,12 +6,12 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
   <div id="badges">
 </div>
-  <div  align="center"><span>I'm a Full Stack Developer from Quebec, Canada <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13px"></span>.
+  <div  align="center"><span></span>
 </div>
   <br>
   <div>
     </div>
-  <h4>How to reach me:</h4>
+  <h4>Drop me a hello on:</h4>
   <a href="https://www.linkedin.com/in/glorianafok/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
