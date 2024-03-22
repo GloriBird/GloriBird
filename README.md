@@ -17,14 +17,18 @@
   </a>
   <div><h4>Languages and Tools</h4>
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-mongoDB-589636?&style=for-the-badge&logo=mongoDB&logoColor=white" />
-<img src="https://img.shields.io/badge/-express-black?&style=for-the-badge&logo=express&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/-nodejs-3C873A?&style=for-the-badge&logo=node&logoColor=white" />
-<img src="https://img.shields.io/badge/-Postman-EF5B25?&style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/-storybook-FF4785?&style=for-the-badge&logo=storybook&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-EF5B25?&style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/-mongoDB-589636?&style=for-the-badge&logo=mongoDB&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+<img src="https://img.shields.io/badge/yaml-ff6b3e?style=for-the-badge&logo=yaml&logoColor=white" />
+
   </div>
 <div>
