@@ -1,7 +1,8 @@
 
 <div id="header" align="center">
   <h1>
-  Hey, how's it going? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
+  Hey, how's it going? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
+
 </h1>
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
   <div id="badges">
